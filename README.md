@@ -1,2 +1,2 @@
 # Algorithm
-Studying data structures and algorithms in c++.
+Studying data structures and algorithms in c++
