@@ -2,14 +2,14 @@
 using namespace std;
 
 int main(){
-    int n,sum=0;
+    int n;
     cin >> n;
-    
-    int ar[n];
-    for(int i=0;i<n;i++){
-        scanf("%1d",&ar[i]);
-        sum += ar[i];
+
+    int num, sum=0;
+    for(int i=0;i<n;i++) {
+        scanf("%1d", &num);
+        sum += num;
     }
-    
+
     cout << sum;
 }
